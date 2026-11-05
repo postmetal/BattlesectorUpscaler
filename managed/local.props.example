@@ -1,0 +1,9 @@
+<Project>
+  <!-- Copy this file to local.props (git-ignored) and adjust the path. -->
+  <PropertyGroup>
+    <GameDir>D:\Steam\steamapps\common\Warhammer 40,000 Battlesector</GameDir>
+    <!-- Optional, default to $(GameDir)\BepInEx\core and $(GameDir)\BepInEx\interop -->
+    <!-- <BepInExCore>D:\Steam\steamapps\common\Warhammer 40,000 Battlesector\BepInEx\core</BepInExCore> -->
+    <!-- <InteropDir>D:\Steam\steamapps\common\Warhammer 40,000 Battlesector\BepInEx\interop</InteropDir> -->
+  </PropertyGroup>
+</Project>
